@@ -1,0 +1,26 @@
+#main-div{
+/*Padding*/
+padding: 5%;
+/*margin*/
+margin: 3%;
+
+/*border*/
+border-width: 10px;
+border-color:darkslategrey;
+border-style: double;
+
+/*    background-color: aquamarine;*/
+background-image: url('./images/main-div-background.jfif');
+background-repeat: no-repeat;
+position: relative;
+background-size: 33%;
+background-position: center;
+outline: 3px slategray dashed;
+}
+a{
+    color: dimgray;
+}
+
+button{
+    background-color: deepskyblue;
+}
